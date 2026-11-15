@@ -1,0 +1,16 @@
+﻿file,true,predicted,confidence,correct
+W1_1.mp3,W1 关闭,W3 3挡,0.495,False
+W1_2.mp3,W1 关闭,W3 3挡,0.395,False
+W1_3.mp3,W1 关闭,W4 失衡,0.315,False
+W2_1.mp3,W2 1挡,W5 遮挡,0.345,False
+W2_2.mp3,W2 1挡,W2 1挡,0.295,True
+W2_3.mp3,W2 1挡,W4 失衡,0.28,False
+W3_1.mp3,W3 3挡,W3 3挡,0.625,True
+W3_2.mp3,W3 3挡,W3 3挡,0.875,True
+W3_3.mp3,W3 3挡,W3 3挡,0.74,True
+W4_1.mp3,W4 失衡,W4 失衡,0.465,True
+W4_2.mp3,W4 失衡,W4 失衡,0.47,True
+W4_3.mp3,W4 失衡,W4 失衡,0.435,True
+W5_1.mp3,W5 遮挡,W5 遮挡,0.575,True
+W5_2.mp3,W5 遮挡,W5 遮挡,0.525,True
+W5_3.mp3,W5 遮挡,W5 遮挡,0.585,True
